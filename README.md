@@ -10,8 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/john-benedict-ong-155000262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john benedict ong" height="30" width="40" /></a>
-<a href="https://fb.com/John Benedict Ong " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john benedict ong" height="30" width="40" /></a>
-<a href="https://discord.gg/ongskie21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ongskie21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
