@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ngskie&show_icons=true&locale=en" alt="0ngskie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0ngskie&" alt="0ngskie" /></p>
+<img align = "right" src = "https://discord.com/channels/1032821085818855424/1177951663454158941/1224186869462597723" />
