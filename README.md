@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is John Benedict P. Ong</h1>
 <h3 align="center">A 2nd year IT Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0ngskie&label=Profile%20views&color=0e75b6&style=flat" alt="0ngskie" /> </p>
+ <img src="https://media.discordapp.net/attachments/1177951663454158941/1209114049015455775/okEnterprise03.png?ex=6613e2b5&is=66016db5&hm=d20d455466f987c6b99df1d3f60587c79d9a3facbddc2efaec506e34b1f37693&=&format=webp&quality=lossless&width=988&height=556" alt="OK Enterprise" align ="center" style =" width: 350px; height: 250px" />
 
 - 🌱 I’m currently learning **Python,Java,HTML,CSS, MySQL, JS**
 
@@ -17,7 +17,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ngskie&show_icons=true&locale=en&layout=compact" alt="0ngskie" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ngskie&show_icons=true&locale=en&layout=compact" alt="0ngskie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ngskie&show_icons=true&locale=en" alt="0ngskie" /></p>
 
