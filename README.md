@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is John Benedict P. Ong</h1>
+<h1 align="center">Hi 👋, my name is John Benedict Ong</h1>
 <h3 align="center"> 2nd year IT Student</h3>
 
 <div align = "center">
