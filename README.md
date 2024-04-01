@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, my name is John Benedict P. Ong</h1>
 <h3 align="center">A 2nd year IT Student</h3>
 
- <img src="https://media.discordapp.net/attachments/1177951663454158941/1209114049015455775/okEnterprise03.png?ex=6613e2b5&is=66016db5&hm=d20d455466f987c6b99df1d3f60587c79d9a3facbddc2efaec506e34b1f37693&=&format=webp&quality=lossless&width=988&height=556" alt="OK Enterprise" align ="center" style =" width: 350px; height: 250px" />
+<div align = "center">
+  <img src="https://media.discordapp.net/attachments/1177951663454158941/1209114049015455775/okEnterprise03.png?ex=6613e2b5&is=66016db5&hm=d20d455466f987c6b99df1d3f60587c79d9a3facbddc2efaec506e34b1f37693&=&format=webp&quality=lossless&width=988&height=556" alt="OK Enterprise" style =" width: 450px; height: 250px" />
+</div>
+
 
 - 🌱 I’m currently learning **Python,Java,HTML,CSS, MySQL, JS**
 
