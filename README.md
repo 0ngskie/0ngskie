@@ -6,7 +6,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Python,Java,HTML,CSS, MySQL, JS**
+- 🌱 I’m currently learning **Python, Java, HTML, CSS, MySQL, JS**
 
 - 📫 How to reach me **ongjohnbenedict2@gmail.com**
 
