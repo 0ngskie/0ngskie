@@ -6,7 +6,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Python, Java, HTML, CSS, MySQL, JS**
+- 🌱 I’m currently learning **Python, Java, HTML, CSS, MySQL, JS, Node.Js**
 
 - 📫 How to reach me **ongjohnbenedict2@gmail.com**
 
@@ -32,5 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ngskie&show_icons=true&locale=en" alt="0ngskie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0ngskie&" alt="0ngskie" /></p>
-<img align = "right" src = "https://github.com/0ngskie/0ngskie/blob/main/images/senko_san.gif?raw=true" alt ="Senko San" style ="width: 250px; height: 250px" />
+<img align = "right" src = "https://github.com/0ngskie/0ngskie/blob/main/images/senko-fox.gif?raw=true" alt ="Senko San" style ="width: 250px; height: 250px" />
 
