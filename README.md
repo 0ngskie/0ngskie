@@ -6,7 +6,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Python, Java, HTML, CSS, MySQL, JS, Node.Js**
+- 🌱 I’m currently learning **Python, Java, HTML, CSS, MySQL, JS, Node.Js, C#, NoSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
